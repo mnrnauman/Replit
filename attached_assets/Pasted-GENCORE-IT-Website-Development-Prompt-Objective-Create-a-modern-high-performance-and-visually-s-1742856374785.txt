@@ -1,0 +1,110 @@
+GENCORE IT Website Development Prompt
+Objective:
+Create a modern, high-performance, and visually stunning website for GENCORE IT (www.gencoreit.com) with the slogan:
+🛠 "Next Generation Core IT Solutions."
+
+The website must be:
+✅ SEO-optimized for high Google ranking
+✅ Fast-loading, mobile-first, and highly responsive
+✅ CMS-friendly for easy content updates
+✅ Feature-rich with engaging animations & a sleek UI
+
+🔹 Navbar Order
+Home | Services | Solutions | About | Blog | Testimonials | Contact
+
+📌 Key Pages & Features
+1️⃣ Home Page:
+✅ Hero Section:
+
+Eye-catching 3D interactive animation using Three.js & React Three Fiber
+
+Business-focused visuals (e.g., cloud computing, cybersecurity, digital transformation)
+
+Strong CTA buttons: "Get a Free Consultation," "Explore Services."
+
+✅ Why Choose Us? (Below Hero Section)
+
+List 4 key strengths: Expertise | 24/7 Support | Scalable Solutions | Affordable Pricing
+
+✅ Client Testimonials Slider
+
+Showcase customer success stories with a smooth Framer Motion animation
+
+2️⃣ Services Page:
+✅ Clear categories & concise descriptions
+✅ Icons & high-quality images for better engagement
+✅ CTAs for each service: "Get Started," "Request a Demo."
+
+Services Include:
+
+Web Development & Hosting
+
+Cloud Solutions (Public & Private)
+
+PBX & VoIP Solutions
+
+SEO & Digital Marketing
+
+IT Support & Consultancy
+
+3️⃣ Solutions Page:
+✅ Showcase custom IT solutions for industries:
+
+CRM Development: Travel Agencies, Property Management, Healthcare, E-commerce
+
+Custom ERP & Business Automation Solutions
+
+4️⃣ About Us Page:
+✅ Company Mission & Vision
+✅ Timeline of Achievements
+✅ Leadership Profiles & Team Introduction
+
+5️⃣ Blog Page:
+✅ Industry insights, case studies & IT trends
+✅ SEO-optimized, engaging content
+
+6️⃣ Testimonials Page:
+✅ Client feedback & success stories with interactive sliders
+
+7️⃣ Contact Page:
+✅ GENCORE IT’s Office Address:
+📍 4th Floor, Saeed Alam Tower, 37-Commercial Zone, Liberty Market, Gulberg, Lahore, Pakistan
+
+✅ Contact Information:
+📞 +92 3320000911
+📧 nauman@gencoreit.com
+
+✅ Office Timings: Monday-Friday: 09:00am-07:00pm
+
+✅ Google Maps integration & contact form
+
+Fields: Name, Email, Company, Message
+
+Auto-response feature after form submission
+
+🛠 Technologies to Use:
+✅ Next.js – Fast, server-rendered React framework for performance & SEO
+✅ Three.js & React Three Fiber – 3D animations & interactive elements
+✅ React Three Drei – Helpers for smooth 3D modeling
+✅ Tailwind CSS – Modern UI styling with utility classes
+✅ Framer Motion – Smooth animations & micro-interactions
+✅ TypeScript – Type-safe development
+
+🖌 UI & Color Enhancements
+✅ Better Text Contrast: Use #D1D5DB (light gray) instead of pure white for readability
+✅ Refined Orange Accents: Use #FFA94D instead of bright orange for CTAs
+✅ Improved Card Backgrounds: Lighter navy blue #162237 with subtle shadows for depth
+✅ Interactive Navbar & Buttons:
+
+Gradient effect on CTA buttons (Dark Blue → Light Blue)
+
+Smooth hover effects for better engagement
+
+💡 Additional Notes for Developers:
+🔹 CMS Integration: If needed, use Sanity CMS or Strapi for easy content updates
+🔹 Performance & Mobile Optimization: Ensure fast loading times & full responsiveness
+🔹 SEO & Accessibility: Optimize meta tags, alt text, and readability
+
+🎯 Final Goal:
+A cutting-edge, high-performance website that boosts GENCORE IT’s brand presence, engagement, and lead generation. 🚀
+
